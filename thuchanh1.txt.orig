@@ -2,7 +2,11 @@
     "name": "Win32",
     "includePath": [
         "${workspaceFolder}"
-    ],confict o day nay
+<<<<<<< HEAD
+    ],confict o day nay code o day
+=======
+    ],confict o day nay yhahahahah
+>>>>>>> master
     "defines": [
         "_DEBUG",
         "UNICODE"
