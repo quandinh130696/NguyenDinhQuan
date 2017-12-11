@@ -1,0 +1,23 @@
+{
+    "name": "Win32",
+    "includePath": [
+        "${workspaceFolder}"
+<<<<<<< HEAD
+    ],confict o day nay code o day
+=======
+    ],confict o day nay yhahahahah
+>>>>>>> master
+    "defines": [
+        "_DEBUG",
+        "UNICODE"
+    ],
+    "intelliSenseMode": "msvc-x64",
+    "browse": {
+        "path": [
+            "${workspaceFolder}",
+            "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    }
+}
