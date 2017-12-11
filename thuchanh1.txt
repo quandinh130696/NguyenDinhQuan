@@ -2,7 +2,7 @@
     "name": "Win32",
     "includePath": [
         "${workspaceFolder}"
-    ],confict o day nay
+    ],confict o day nay code o day
     "defines": [
         "_DEBUG",
         "UNICODE"
